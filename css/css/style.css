@@ -1,0 +1,15 @@
+
+.test1{
+            color: red;
+            width: 50px;
+            
+    }
+.div1{
+    background-color: aqua;
+    text-align: center;
+    font-size: smaller;
+    width: 50px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
