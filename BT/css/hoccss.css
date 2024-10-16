@@ -1,0 +1,17 @@
+body{
+    background-color: black;
+}
+
+.one{
+    color: white;
+    background-color: red;
+}
+
+.two{
+    color: yellow;
+    background-color: red;
+}
+
+span{
+    color: yellow;
+}
