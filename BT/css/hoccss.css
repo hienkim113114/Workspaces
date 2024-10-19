@@ -1,17 +1,21 @@
-body{
-    background-color: black;
-}
+   body {
+            font-family: Arial;
+            background-color: #f4f4f4;
+        }
+        
+        .content {
+            font-weight: bold;
+            padding: 20px;
+            font-size: 24px;
+        }
+        .button {
+            background-color: #28a745;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+      
+        
 
-.one{
-    color: white;
-    background-color: red;
-}
-
-.two{
-    color: yellow;
-    background-color: red;
-}
-
-span{
-    color: yellow;
-}
+        
